@@ -18,8 +18,8 @@ body {
 }
 
 .hero h1 {
-  font-size: 56px;
-  line-height: 1.08;
+  font-size: 42px;
+  line-height: 1.12;
   font-weight: 500;
   max-width: 900px;
 }
@@ -115,7 +115,7 @@ body {
 
 @media (max-width: 900px) {
   .hero h1 {
-    font-size: 40px;
+    font-size: 32px;
   }
 
   .project-grid {
